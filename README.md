@@ -1,34 +1,55 @@
-# 🌦️ Weather App (Android - Kotlin)
+# 🌦️ Weather App
 
-A beginner-friendly Android Weather App built using **Kotlin**, **Retrofit**, and **OpenWeatherMap API**. The app allows users to search for a city's current weather and displays temperature, humidity, weather condition, and wind speed in a clean and responsive UI.
-
----
-
-## 📱 Features
-
-- 🔍 Search weather by city name  
-- 🌡️ Display current temperature (in Celsius)  
-- ☁️ Show weather condition (Clear, Cloudy, Rain, etc.)  
-- 💧 Humidity and 🌬️ Wind speed info  
-- 📶 Uses Retrofit to fetch data from OpenWeatherMap API  
-- 🧪 Robust JSON parsing with Gson  
-- 💡 Modern clean UI using XML layouts  
-- 📦 Minimum SDK 29 support
-
+A sleek and minimalistic **Weather App** built using **Kotlin** and **Retrofit** for Android. It fetches real-time weather data from **OpenWeatherMap API** and displays current temperature, condition, humidity, wind speed, sunrise, sunset, and more with Lottie animations and dynamic backgrounds.
 
 ---
 
-## 🛠️ Built With
+## 📸 Screenshots
 
-- **Kotlin** – Modern Android programming language  
-- **Retrofit** – For making HTTP network requests  
-- **Gson** – For JSON parsing  
-- **ViewBinding** – For efficient view handling  
-- **OpenWeatherMap API** – Real-time weather data  
-- **XML Layout** – For structured UI design  
+> _Add your app screenshots here if you'd like_
 
 ---
 
-## 🔑 API Used
+## 🚀 Features
 
-- [OpenWeatherMap API](https://openweathermap.org/api)   
+- 🌐 Real-time weather data using OpenWeatherMap API  
+- 🔍 Search any city using SearchView  
+- 🎨 Dynamic background changes based on weather condition  
+- 📊 Shows:
+  - Temperature
+  - Humidity
+  - Wind Speed
+  - Sea Level Pressure
+  - Sunrise & Sunset
+  - Weather condition  
+- 🗓️ Displays current date and day  
+- ✨ Animated icons with Lottie  
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|--------|
+| Kotlin | Android app development |
+| Retrofit | HTTP client for API |
+| Gson | JSON parsing |
+| ViewBinding | Efficient view access |
+| Lottie | Weather animations |
+| OpenWeatherMap | Data source |
+
+---
+
+## 🔗 API Reference
+
+- **OpenWeatherMap API**
+  - Base URL: `https://api.openweathermap.org/data/2.5/`
+  - [Get your free API key here](https://openweathermap.org/api)
+
+---
+
+## 🔧 Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/rudresh05/weather-app.git
