@@ -1,14 +1,6 @@
-# 🌦️ Weather App
+# 🌦️Atmospheric Intelligence App
 
 A sleek and minimalistic **Weather App** built using **Kotlin** and **Retrofit** for Android. It fetches real-time weather data from **OpenWeatherMap API** and displays current temperature, condition, humidity, wind speed, sunrise, sunset, and more with Lottie animations and dynamic backgrounds.
-
----
-
-## 📸 Screenshots
-
-![ScreenShot](Screenshot_20250803_090619.png)
-![ScreenShot](Screenshot_20250803_090642.png)
-![ScreenShot](Screenshot_20250803_090729.png)
 
 ---
 
@@ -58,4 +50,13 @@ https://github.com/rudresh05/Atmospheric-Intelligence-App/releases/download/v1.0
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rudresh05/weather-app.git
+   git clone https://github.com/rudresh05/Atmospheric-Intelligence-App.git
+
+---
+
+
+
+## 📸 Screenshots
+
+<img src="aia1.png" alt="Calculator App" width="300"/>            <img src="aia2.png" alt="Calculator App" width="300"/>     <img src="aia3.png" alt="Calculator App" width="300"/>   
+
