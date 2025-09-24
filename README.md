@@ -6,7 +6,7 @@ A sleek and minimalistic **Weather App** built using **Kotlin** and **Retrofit**
 
 ## 📸 Screenshots
 
-> _Add your app screenshots here if you'd like_
+![ScreenShot](Screenshot_20250803_090619.png)
 
 ---
 
