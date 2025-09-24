@@ -41,6 +41,10 @@ A sleek and minimalistic **Weather App** built using **Kotlin** and **Retrofit**
 | OpenWeatherMap | Data source |
 
 ---
+**📥 Download the APK below to try it out :**
+https://github.com/rudresh05/Atmospheric-Intelligence-App/releases/download/v1.0.0/app-debug.apk
+
+---
 
 ## 🔗 API Reference
 
